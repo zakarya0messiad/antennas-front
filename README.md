@@ -1,6 +1,6 @@
 # antennas-front Project
 
-test push
+test pusher
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
